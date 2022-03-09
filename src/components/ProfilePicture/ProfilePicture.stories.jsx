@@ -4,7 +4,7 @@ import picture from '../../assets/profile-picture.png';
 import ProfilePicture from './ProfilePicture';
 
 export default {
-  title: 'Example/ProfilePicture',
+  title: 'Components/ProfilePicture',
   component: ProfilePicture,
   parameters: {
     layout: 'fullscreen',
